@@ -66,4 +66,4 @@ This dashboard demonstrates how Excel can be used for business intelligence repo
 
 ---
 
-📌 Created by: **Knghtrvn**
+📌 Created by: Qadir
